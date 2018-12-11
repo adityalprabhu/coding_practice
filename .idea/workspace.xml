@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83ff0a04-3de8-4361-a6d8-bc0f70699d96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/binarysearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingPad/LinkedList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingPad/QuickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPad/QuickSort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/coding_practice$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1544568230552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1544565404812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$binarysearch.coverage" NAME="binarysearch Coverage Results" MODIFIED="1544565447417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -26,22 +26,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="438" />
+          <entry key="py" value="1946" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="438" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="1946" />
         </counts>
       </usages-collector>
     </session>
@@ -49,22 +51,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/binarysearch.py">
+        <entry file="file://$PROJECT_DIR$/CodingPad/LinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            <state relative-caret-position="780">
+              <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
               <folding>
-                <marker date="1544565262536" expanded="true" signature="58:316" ph="..." />
+                <marker date="1544568221666" expanded="true" signature="64:69" ph="..." />
+                <marker date="1544568221666" expanded="true" signature="180:185" ph="..." />
+                <marker date="1544568221666" expanded="true" signature="289:391" ph="..." />
+                <marker date="1544568221666" expanded="true" signature="411:416" ph="..." />
+                <marker date="1544568221666" expanded="true" signature="969:1206" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingPad/QuickSort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="49" column="38" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="49" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -86,6 +83,7 @@
       <list>
         <option value="$PROJECT_DIR$/CodingPad/QuickSort.py" />
         <option value="$PROJECT_DIR$/binarysearch.py" />
+        <option value="$PROJECT_DIR$/CodingPad/LinkedList.py" />
       </list>
     </option>
   </component>
@@ -113,6 +111,9 @@
         </selected-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -145,6 +146,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CodingPad" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -157,7 +163,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.binarysearch">
+  <component name="RunManager" selected="Python.LinkedList">
+    <configuration name="LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingPad" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/LinkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,7 +221,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binarysearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/binarysearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,9 +233,11 @@
     <list>
       <item itemvalue="Python.QuickSort" />
       <item itemvalue="Python.binarysearch" />
+      <item itemvalue="Python.LinkedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LinkedList" />
         <item itemvalue="Python.binarysearch" />
         <item itemvalue="Python.QuickSort" />
       </list>
@@ -224,6 +254,21 @@
       <option name="presentableId" value="Default" />
       <updated>1544564083017</updated>
     </task>
+    <task id="LOCAL-00001" summary="binary search">
+      <created>1544565478793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544565478793</updated>
+    </task>
+    <task id="LOCAL-00002" summary="binary search">
+      <created>1544565728969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544565728969</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -235,9 +280,9 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" weight="0.329927" />
+      <window_info anchor="bottom" id="Python Console" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329927" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -256,23 +301,67 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary search" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingPad/QuickSort.py">
+    <entry file="file://$PROJECT_DIR$/CodingPad/binarysearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="49" column="38" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="49" selection-end-column="38" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1544565447407" expanded="true" signature="90:368" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binarysearch.py">
+    <entry file="file://$PROJECT_DIR$/CodingPad/QuickSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state relative-caret-position="259">
+          <caret line="47" column="26" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPad/LinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
           <folding>
-            <marker date="1544565262536" expanded="true" signature="58:316" ph="..." />
+            <marker date="1544568221666" expanded="true" signature="64:69" ph="..." />
+            <marker date="1544568221666" expanded="true" signature="180:185" ph="..." />
+            <marker date="1544568221666" expanded="true" signature="289:391" ph="..." />
+            <marker date="1544568221666" expanded="true" signature="411:416" ph="..." />
+            <marker date="1544568221666" expanded="true" signature="969:1206" ph="..." />
           </folding>
         </state>
       </provider>
