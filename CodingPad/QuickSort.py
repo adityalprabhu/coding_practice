@@ -20,7 +20,7 @@ def partition(arr, left, right):
         while arr[left] < pivot:
             left += 1
 
-        while arr[right] >  pivot:
+        while arr[right] > pivot:
             right -= 1
 
         if left <= right:
