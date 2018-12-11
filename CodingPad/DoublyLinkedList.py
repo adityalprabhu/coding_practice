@@ -12,7 +12,7 @@ class Node:
 
 
 # LinkedList Class
-class LinkedList:
+class DLinkedList:
     def __init__(self):
         self.head = None
 
@@ -87,7 +87,7 @@ def removeNode(ll, node):
 
 # Main function
 if __name__ == '__main__':
-    ll = LinkedList()
+    ll = DLinkedList()
     insert(ll, 10)
     insert(ll, 20)
     insert(ll, 30)

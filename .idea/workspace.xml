@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83ff0a04-3de8-4361-a6d8-bc0f70699d96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CodingPad/DoublyLinkedList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingPad/DoublyLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPad/DoublyLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingPad/LinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPad/LinkedList.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,35 +28,50 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2197" />
-          <entry key="txt" value="50" />
+          <entry key="py" value="2201" />
+          <entry key="txt" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="50" />
-          <entry key="Python" value="2197" />
+          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="Python" value="2201" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingPad/DoublyLinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="34">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingPad/LinkedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+              <folding>
+                <marker date="1544569321612" expanded="true" signature="64:69" ph="..." />
+                <marker date="1544569321612" expanded="true" signature="181:186" ph="..." />
+                <marker date="1544569321612" expanded="true" signature="290:392" ph="..." />
+                <marker date="1544569321612" expanded="true" signature="412:417" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,8 +93,8 @@
       <list>
         <option value="$PROJECT_DIR$/CodingPad/QuickSort.py" />
         <option value="$PROJECT_DIR$/binarysearch.py" />
-        <option value="$PROJECT_DIR$/CodingPad/LinkedList.py" />
         <option value="$PROJECT_DIR$/CodingPad/DoublyLinkedList.py" />
+        <option value="$PROJECT_DIR$/CodingPad/LinkedList.py" />
       </list>
     </option>
   </component>
@@ -294,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544568261149</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="doubly linked list python implementation">
+      <created>1544569305320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544569305320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -302,7 +325,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -312,7 +335,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,7 +382,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="binary search" />
     <MESSAGE value="linked list python implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked list python implementation" />
+    <MESSAGE value="doubly linked list python implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="doubly linked list python implementation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CodingPad/binarysearch.py">
@@ -379,23 +403,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPad/LinkedList.py">
+    <entry file="file://$PROJECT_DIR$/CodingPad/DoublyLinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="41" column="25" lean-forward="true" selection-end-line="74" />
-          <folding>
-            <marker date="1544568221666" expanded="true" signature="64:69" ph="..." />
-            <marker date="1544568221666" expanded="true" signature="180:185" ph="..." />
-            <marker date="1544568221666" expanded="true" signature="289:391" ph="..." />
-            <marker date="1544568221666" expanded="true" signature="411:416" ph="..." />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPad/DoublyLinkedList.py">
+    <entry file="file://$PROJECT_DIR$/CodingPad/LinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="124">
+          <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+          <folding>
+            <marker date="1544569321612" expanded="true" signature="64:69" ph="..." />
+            <marker date="1544569321612" expanded="true" signature="181:186" ph="..." />
+            <marker date="1544569321612" expanded="true" signature="290:392" ph="..." />
+            <marker date="1544569321612" expanded="true" signature="412:417" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
