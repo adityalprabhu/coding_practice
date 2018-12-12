@@ -1,8 +1,8 @@
 # Implementation of the depth first seach algorithm for a graph
 
 
-# dfs with initial empty visited arrat
-def dfs(graph, start, visited = []):
+# dfs with initial empty visited array
+def dfs(graph, start, visited=[]):
     # add the root in visited
     if start not in visited:
         visited.append(start)
@@ -18,7 +18,7 @@ def dfs(graph, start, visited = []):
 
 # main function
 if __name__ == '__main__':
-    print("depth first seach")
+    print("depth first search")
     graph = {'A': set(['B', 'C']),
              'B': set(['A', 'D', 'E']),
              'C': set(['A', 'F']),
