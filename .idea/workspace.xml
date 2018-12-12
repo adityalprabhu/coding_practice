@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83ff0a04-3de8-4361-a6d8-bc0f70699d96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CodingPad/Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingPad/PermutationsString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingPad/ReverseString.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +14,10 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/coding_practice$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1544568335176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
+    <SUITE FILE_PATH="coverage/coding_practice$ReverseString.coverage" NAME="ReverseString Coverage Results" MODIFIED="1544591288990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
+    <SUITE FILE_PATH="coverage/coding_practice$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1544578912903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1544565404812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
+    <SUITE FILE_PATH="coverage/coding_practice$PermutationsString.coverage" NAME="PermutationsString Coverage Results" MODIFIED="1544593718473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$DoublyLinkedList.coverage" NAME="DoublyLinkedList Coverage Results" MODIFIED="1544568915567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$binarysearch.coverage" NAME="binarysearch Coverage Results" MODIFIED="1544565447417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/coding_practice$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1544574144039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
@@ -28,62 +32,37 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="8" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="8" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3358" />
-          <entry key="txt" value="57" />
+          <entry key="py" value="5447" />
+          <entry key="txt" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="57" />
-          <entry key="Python" value="3358" />
+          <entry key="PLAIN_TEXT" value="93" />
+          <entry key="Python" value="5447" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingPad/DoublyLinkedList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingPad/LinkedList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
-              <folding>
-                <marker date="1544569321612" expanded="true" signature="64:69" ph="..." />
-                <marker date="1544569321612" expanded="true" signature="181:186" ph="..." />
-                <marker date="1544569321612" expanded="true" signature="290:392" ph="..." />
-                <marker date="1544569321612" expanded="true" signature="412:417" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingPad/Stack.py">
+        <entry file="file://$PROJECT_DIR$/CodingPad/PermutationsString.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+            <state relative-caret-position="90">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding>
-                <marker date="1544574073905" expanded="true" signature="268:342" ph="..." />
-                <marker date="1544574073905" expanded="true" signature="648:827" ph="..." />
+                <marker date="1544593710722" expanded="true" signature="66:508" ph="..." />
               </folding>
             </state>
           </provider>
@@ -109,6 +88,9 @@
         <option value="$PROJECT_DIR$/CodingPad/DoublyLinkedList.py" />
         <option value="$PROJECT_DIR$/CodingPad/LinkedList.py" />
         <option value="$PROJECT_DIR$/CodingPad/Stack.py" />
+        <option value="$PROJECT_DIR$/CodingPad/Queue.py" />
+        <option value="$PROJECT_DIR$/CodingPad/ReverseString.py" />
+        <option value="$PROJECT_DIR$/CodingPad/PermutationsString.py" />
       </list>
     </option>
   </component>
@@ -188,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Stack">
+  <component name="RunManager" selected="Python.PermutationsString">
     <configuration name="DoublyLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PermutationsString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,7 +206,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/LinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/PermutationsString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,7 +228,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/QuickSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/Queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingPad" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/ReverseString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,42 +281,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="binarysearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="coding_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/binarysearch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.QuickSort" />
-      <item itemvalue="Python.binarysearch" />
-      <item itemvalue="Python.LinkedList" />
       <item itemvalue="Python.DoublyLinkedList" />
       <item itemvalue="Python.Stack" />
+      <item itemvalue="Python.Queue" />
+      <item itemvalue="Python.ReverseString" />
+      <item itemvalue="Python.PermutationsString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PermutationsString" />
+        <item itemvalue="Python.ReverseString" />
+        <item itemvalue="Python.Queue" />
         <item itemvalue="Python.Stack" />
         <item itemvalue="Python.DoublyLinkedList" />
-        <item itemvalue="Python.LinkedList" />
-        <item itemvalue="Python.binarysearch" />
-        <item itemvalue="Python.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +344,21 @@
       <option name="project" value="LOCAL" />
       <updated>1544569328570</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Stack python implementation">
+      <created>1544574152256</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544574152256</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Queue python implementation using node">
+      <created>1544579096090</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544579096090</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -428,7 +424,9 @@
     <MESSAGE value="binary search" />
     <MESSAGE value="linked list python implementation" />
     <MESSAGE value="doubly linked list python implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="doubly linked list python implementation" />
+    <MESSAGE value="Stack python implementation" />
+    <MESSAGE value="Queue python implementation using node" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue python implementation using node" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CodingPad/binarysearch.py">
@@ -470,11 +468,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingPad/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+        <state relative-caret-position="870">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
           <folding>
-            <marker date="1544574073905" expanded="true" signature="268:342" ph="..." />
-            <marker date="1544574073905" expanded="true" signature="648:827" ph="..." />
+            <marker date="1544574135526" expanded="true" signature="268:342" ph="..." />
+            <marker date="1544574135526" expanded="true" signature="673:877" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPad/ReverseString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1544591308127" expanded="true" signature="138:253" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPad/Queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding>
+            <marker date="1544579081548" expanded="true" signature="183:1016" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPad/PermutationsString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <marker date="1544593710722" expanded="true" signature="66:508" ph="..." />
           </folding>
         </state>
       </provider>
