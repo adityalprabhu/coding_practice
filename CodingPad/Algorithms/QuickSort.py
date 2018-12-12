@@ -46,6 +46,6 @@ def quicksort_initial(arr):
 
 
 if __name__ == '__main__':
-    elements = [3,2,5,25,8,0,1,64,6]
+    elements = [3, 2, 5, 25, 8, 0, 1, 64, 6]
     print(quicksort_initial(elements))
 

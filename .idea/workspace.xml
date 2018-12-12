@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83ff0a04-3de8-4361-a6d8-bc0f70699d96" name="Default Changelist" comment="changed name">
+    <list default="true" id="83ff0a04-3de8-4361-a6d8-bc0f70699d96" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingPad/DataStructures/QuickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPad/Algorithms/QuickSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingPad/Algorithms/QuickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPad/Algorithms/QuickSort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,14 +15,14 @@
     <SUITE FILE_PATH="coverage/coding_practice$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1544568335176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$ReverseString.coverage" NAME="ReverseString Coverage Results" MODIFIED="1544591288990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1544578912903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
-    <SUITE FILE_PATH="coverage/coding_practice$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1544565404812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$PermutationsString.coverage" NAME="PermutationsString Coverage Results" MODIFIED="1544593718473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$BreadthFirstSearch.coverage" NAME="BreadthFirstSearch Coverage Results" MODIFIED="1544644275219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Algorithms" />
+    <SUITE FILE_PATH="coverage/coding_practice$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1544651631185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Algorithms" />
     <SUITE FILE_PATH="coverage/coding_practice$DoublyLinkedList.coverage" NAME="DoublyLinkedList Coverage Results" MODIFIED="1544568915567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
-    <SUITE FILE_PATH="coverage/coding_practice$Tree.coverage" NAME="Tree Coverage Results" MODIFIED="1544648927658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/DataStructures" />
+    <SUITE FILE_PATH="coverage/coding_practice$Tree.coverage" NAME="Tree Coverage Results" MODIFIED="1544651491230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/DataStructures" />
     <SUITE FILE_PATH="coverage/coding_practice$binarysearch.coverage" NAME="binarysearch Coverage Results" MODIFIED="1544565447417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/coding_practice$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1544574144039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
-    <SUITE FILE_PATH="coverage/coding_practice$DepthFirstSearch.coverage" NAME="DepthFirstSearch Coverage Results" MODIFIED="1544643941242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Algorithms" />
+    <SUITE FILE_PATH="coverage/coding_practice$DepthFirstSearch.coverage" NAME="DepthFirstSearch Coverage Results" MODIFIED="1544651802152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Algorithms" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="570753993">
@@ -34,31 +34,53 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="py" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="Python" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="24" />
-          <entry key="py" value="8612" />
+          <entry key="py" value="8621" />
           <entry key="txt" value="246" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="270" />
-          <entry key="Python" value="8612" />
+          <entry key="Python" value="8621" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/QuickSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="763">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/DepthFirstSearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <marker date="1544651798991" expanded="true" signature="104:105" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,9 +108,10 @@
         <option value="$PROJECT_DIR$/CodingPad/Queue.py" />
         <option value="$PROJECT_DIR$/CodingPad/ReverseString.py" />
         <option value="$PROJECT_DIR$/CodingPad/PermutationsString.py" />
-        <option value="$PROJECT_DIR$/CodingPad/Algorithms/DepthFirstSearch.py" />
         <option value="$PROJECT_DIR$/CodingPad/Algorithms/BreadthFirstSearch.py" />
         <option value="$PROJECT_DIR$/CodingPad/DataStructures/Tree.py" />
+        <option value="$PROJECT_DIR$/CodingPad/Algorithms/QuickSort.py" />
+        <option value="$PROJECT_DIR$/CodingPad/Algorithms/DepthFirstSearch.py" />
       </list>
     </option>
   </component>
@@ -143,12 +166,6 @@
               <item name="CodingPad" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="coding_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="CodingPad" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Tree">
+  <component name="RunManager" selected="Python.DepthFirstSearch">
     <configuration name="BreadthFirstSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,12 +278,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingPad" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingPad/Algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/Strings/ReverseString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/Algorithms/QuickSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,19 +315,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ReverseString" />
       <item itemvalue="Python.PermutationsString" />
       <item itemvalue="Python.DepthFirstSearch" />
       <item itemvalue="Python.BreadthFirstSearch" />
       <item itemvalue="Python.Tree" />
+      <item itemvalue="Python.QuickSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DepthFirstSearch" />
+        <item itemvalue="Python.QuickSort" />
         <item itemvalue="Python.Tree" />
         <item itemvalue="Python.BreadthFirstSearch" />
-        <item itemvalue="Python.DepthFirstSearch" />
         <item itemvalue="Python.PermutationsString" />
-        <item itemvalue="Python.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -423,14 +440,22 @@
       <option name="project" value="LOCAL" />
       <updated>1544649118730</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="changed name">
+      <created>1544651398319</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1544651398319</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -440,7 +465,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -506,13 +531,6 @@
           <folding>
             <marker date="1544565447407" expanded="true" signature="90:368" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/QuickSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="47" column="26" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="49" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -586,17 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/DepthFirstSearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <marker date="1544643955757" expanded="true" signature="104:105" ph="..." />
-            <marker date="1544643955757" expanded="true" signature="289:458" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingPad/DataStructures/Queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
@@ -610,6 +617,18 @@
     <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/Queue.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPad/DataStructures/Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="24" />
+          <folding>
+            <marker date="1544651577881" expanded="true" signature="63:182" ph="..." />
+            <marker date="1544651577881" expanded="true" signature="193:1597" ph="..." />
+            <marker date="1544651577881" expanded="true" signature="289:641" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/BreadthFirstSearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -620,15 +639,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingPad/DataStructures/Tree.py">
+    <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/QuickSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="763">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/DepthFirstSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
-            <marker date="1544648925956" expanded="true" signature="63:182" ph="..." />
-            <marker date="1544648925956" expanded="true" signature="193:1597" ph="..." />
-            <marker date="1544648925956" expanded="true" signature="289:641" ph="..." />
-            <marker date="1544648925956" expanded="true" signature="763:819" ph="..." />
+            <marker date="1544651798991" expanded="true" signature="104:105" ph="..." />
           </folding>
         </state>
       </provider>
