@@ -2,21 +2,24 @@
 
 def lcs(x,y):
 
-    xlen = len(x)
-    ylen = len(y)
+    m = len(x)
+    n = len(y)
 
-    L = [[None]*(ylen+1) for i in range(xlen+1)]
+    L = [[0]*(n+1) for i in range(m+1)]
 
-    for i in range(xlen+1):
-        for j in range(ylen+1):
+    for i in range(m+1):
+        for j in range(n+1):
+
             if i==0 or j==0:
                 L[i][j] = 0
+
             elif x[i-1] == y[j-1]:
                 L[i][j] = L[i-1][j-1] + 1
+
             else:
                 L[i][j] = max(L[i-1][j], L[i][j-1])
 
-    return L[xlen][ylen]
+    return L[m][n]
 
 
 if __name__ == '__main__':
