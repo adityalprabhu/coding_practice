@@ -22,6 +22,7 @@ def lcs(x,y):
 if __name__ == '__main__':
     str1 = "helloworld"
     str2 = "hqeqlqlqo"
+    print("\nFrom solution with memoization")
     print("Length of LCS is ", lcs(str1, str2))
 
 
@@ -40,6 +41,8 @@ def lcs(X, Y, m, n):
 
 
 if __name__ == '__main__':
-    X = "AGGTAB"
-    Y = "GXTXAYB"
+    X = "helloworld"
+    Y = "hqeqlqlqo"
+
+    print("\nFrom solution without memoization")
     print("Length of LCS is ", lcs(X, Y, len(X), len(Y)))

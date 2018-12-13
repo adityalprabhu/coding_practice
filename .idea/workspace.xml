@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83ff0a04-3de8-4361-a6d8-bc0f70699d96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CodingPad/Strings/LongestCommonSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingPad/Strings/LongestPalindromicSubsequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingPad/Strings/LongestCommonSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPad/Strings/LongestCommonSubsequence.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,18 +13,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/coding_practice$PermutationsString.coverage" NAME="PermutationsString Coverage Results" MODIFIED="1544593718473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
+    <SUITE FILE_PATH="coverage/coding_practice$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1544651631185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Algorithms" />
+    <SUITE FILE_PATH="coverage/coding_practice$DoublyLinkedList.coverage" NAME="DoublyLinkedList Coverage Results" MODIFIED="1544568915567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
+    <SUITE FILE_PATH="coverage/coding_practice$LongestPalindromicSubsequence.coverage" NAME="LongestPalindromicSubsequence Coverage Results" MODIFIED="1544663844386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Strings" />
+    <SUITE FILE_PATH="coverage/coding_practice$binarysearch.coverage" NAME="binarysearch Coverage Results" MODIFIED="1544565447417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/coding_practice$LongestCommonSubsequence.coverage" NAME="LongestCommonSubsequence Coverage Results" MODIFIED="1544662384797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Strings" />
     <SUITE FILE_PATH="coverage/coding_practice$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1544568335176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$ReverseString.coverage" NAME="ReverseString Coverage Results" MODIFIED="1544591288990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1544578912903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
-    <SUITE FILE_PATH="coverage/coding_practice$PermutationsString.coverage" NAME="PermutationsString Coverage Results" MODIFIED="1544593718473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$BreadthFirstSearch.coverage" NAME="BreadthFirstSearch Coverage Results" MODIFIED="1544644275219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Algorithms" />
-    <SUITE FILE_PATH="coverage/coding_practice$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1544651631185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Algorithms" />
-    <SUITE FILE_PATH="coverage/coding_practice$DoublyLinkedList.coverage" NAME="DoublyLinkedList Coverage Results" MODIFIED="1544568915567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$Tree.coverage" NAME="Tree Coverage Results" MODIFIED="1544651491230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/DataStructures" />
-    <SUITE FILE_PATH="coverage/coding_practice$binarysearch.coverage" NAME="binarysearch Coverage Results" MODIFIED="1544565447417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/coding_practice$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1544574144039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad" />
     <SUITE FILE_PATH="coverage/coding_practice$DepthFirstSearch.coverage" NAME="DepthFirstSearch Coverage Results" MODIFIED="1544651802152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Algorithms" />
-    <SUITE FILE_PATH="coverage/coding_practice$LongestCommonSubsequence.coverage" NAME="LongestCommonSubsequence Coverage Results" MODIFIED="1544662165129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodingPad/Strings" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="570753993">
@@ -35,59 +37,38 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="28" />
+          <entry key="py" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="28" />
+          <entry key="Python" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="24" />
-          <entry key="py" value="9019" />
-          <entry key="txt" value="246" />
+          <entry key="py" value="10694" />
+          <entry key="txt" value="286" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="270" />
-          <entry key="Python" value="9019" />
+          <entry key="PLAIN_TEXT" value="310" />
+          <entry key="Python" value="10694" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/QuickSort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="763">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/DepthFirstSearch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-              <folding>
-                <marker date="1544651798991" expanded="true" signature="104:105" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingPad/Strings/LongestCommonSubsequence.py">
+        <entry file="file://$PROJECT_DIR$/CodingPad/Strings/LongestPalindromicSubsequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="169">
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding>
-                <marker date="1544661971775" expanded="true" signature="42:538" ph="..." />
+                <marker date="1544663844378" expanded="true" signature="94:1123" ph="..." />
               </folding>
             </state>
           </provider>
@@ -126,6 +107,7 @@
         <option value="$PROJECT_DIR$/CodingPad/Algorithms/QuickSort.py" />
         <option value="$PROJECT_DIR$/CodingPad/Algorithms/DepthFirstSearch.py" />
         <option value="$PROJECT_DIR$/CodingPad/Strings/LongestCommonSubsequence.py" />
+        <option value="$PROJECT_DIR$/CodingPad/Strings/LongestPalindromicSubsequence.py" />
       </list>
     </option>
   </component>
@@ -218,29 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LongestCommonSubsequence">
-    <configuration name="BreadthFirstSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="coding_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingPad/Algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/Algorithms/BreadthFirstSearch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.LongestPalindromicSubsequence">
     <configuration name="DepthFirstSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="coding_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,6 +237,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/Strings/LongestCommonSubsequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LongestPalindromicSubsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingPad/Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingPad/Strings/LongestPalindromicSubsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,18 +313,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.DepthFirstSearch" />
-      <item itemvalue="Python.BreadthFirstSearch" />
       <item itemvalue="Python.Tree" />
       <item itemvalue="Python.QuickSort" />
       <item itemvalue="Python.LongestCommonSubsequence" />
+      <item itemvalue="Python.LongestPalindromicSubsequence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LongestPalindromicSubsequence" />
         <item itemvalue="Python.LongestCommonSubsequence" />
         <item itemvalue="Python.DepthFirstSearch" />
         <item itemvalue="Python.QuickSort" />
         <item itemvalue="Python.Tree" />
-        <item itemvalue="Python.BreadthFirstSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544651810570</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Longest Common Subsequence">
+      <created>1544662195555</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1544662195556</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -543,7 +532,8 @@
     <MESSAGE value="breadth first search for a graph" />
     <MESSAGE value="binary search tree implementation python" />
     <MESSAGE value="changed name" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed name" />
+    <MESSAGE value="Longest Common Subsequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Longest Common Subsequence" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CodingPad/Algorithms/BinarySearch.py">
@@ -680,10 +670,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingPad/Strings/LongestCommonSubsequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="340">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
           <folding>
-            <marker date="1544661971775" expanded="true" signature="42:538" ph="..." />
+            <marker date="1544662384789" expanded="true" signature="42:658" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingPad/Strings/LongestPalindromicSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <marker date="1544663844378" expanded="true" signature="94:1123" ph="..." />
           </folding>
         </state>
       </provider>
